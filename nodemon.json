@@ -1,8 +1,0 @@
-{
-    "env": {
-        "MONGO_ATLAS_USER": "salvador_serrano",
-        "MONGO_ATLAS_PW": "hotdog21",
-        "MONGO_ATLAS_DB": "sample_hotel",
-        "DOMAIN": "localhost:3000"
-    }
-}
